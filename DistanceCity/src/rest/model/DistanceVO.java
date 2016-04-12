@@ -1,4 +1,4 @@
-package rest.model;
+ package rest.model;
 
 import javax.xml.bind.annotation.XmlRootElement;
 

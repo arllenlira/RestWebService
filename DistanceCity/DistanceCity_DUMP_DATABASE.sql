@@ -1,6 +1,6 @@
 delimiter $$
 
-CREATE DATABASE `hub` /*!40100 DEFAULT CHARACTER SET latin1 */$$
+CREATE DATABASE `starterlab` /*!40100 DEFAULT CHARACTER SET latin1 */$$
 
 
 CREATE TABLE `city` (
@@ -13,8 +13,8 @@ CREATE TABLE `city` (
 
 insert into city(name, latitude, longitude) values('MANAUS', '-3.1019400', '-60.0250000')$$
 insert into city(name, latitude, longitude) values('RIO DE JANEIRO', '-22.9027800', '-43.2075000')$$
-insert into city(name, latitude, longitude) values('BRAS√çLIA', '-15.7797200', '-47.9297200')$$
-insert into city(name, latitude, longitude) values('S√ÉO PAULO', '-23.5475000', '-46.6361100')$$
+insert into city(name, latitude, longitude) values('BRASÕLIA', '-15.7797200', '-47.9297200')$$
+insert into city(name, latitude, longitude) values('S√O PAULO', '-23.5475000', '-46.6361100')$$
 insert into city(name, latitude, longitude) values('PORTO ALEGRE', '-30.0330600', '-51.2300000')$$
 
 
